@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "tpHaskellChef:lib"
+
+    - path: "./test"
+      component: "tpHaskellChef:test:tpHaskellChef-test"
