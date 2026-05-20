@@ -214,7 +214,3 @@ platoMario = Plato{
     componentes = [("sal", 1), ("aceite", 2)]
 }
 
-
-
-
-jijsdjsjijjjdjdsjjdisjdis
