@@ -198,7 +198,7 @@ juanCocina = Participante {
 }
 
 participantes :: [Participante]
-participantes = [pepeRonccino, mariaCocina, juanCocina, mario, jorgito]
+participantes = [pepeRonccino, mariaCocina, juanCocina, mario, jorge]
 
 
 mario :: Participante 
