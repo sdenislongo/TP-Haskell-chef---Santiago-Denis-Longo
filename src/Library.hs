@@ -198,7 +198,7 @@ juanCocina = Participante {
 }
 
 participantes :: [Participante]
-participantes = [pepeRonccino, mariaCocina, juanCocina, mario]
+participantes = [pepeRonccino, mariaCocina, juanCocina, mario, jorgito]
 
 
 mario :: Participante 
@@ -212,5 +212,12 @@ platoMario :: Plato
 platoMario = Plato{
     dificultad = 10,
     componentes = [("sal", 1), ("aceite", 2)]
+}
+
+jorge :: Participante 
+jorge = Participante{
+    nombre = "jorgito",
+    trucosCocina = [darSabor 30 30, duplicarPorcion],
+    platoEspecialidad = platoPrueba2
 }
 
